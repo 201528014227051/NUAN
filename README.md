@@ -1,7 +1,7 @@
 # NUAN
 Non-Uniform Attention Network
 ## Code
-Codes will be released soon.
+Codes will be released after the paper publication.
 
 
 ## Zoo

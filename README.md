@@ -1,7 +1,9 @@
 # NUAN
 Non-Uniform Attention Network
+[repository](https://github.com/201528014227051/NUAN)
+
 ## Code
-Codes will be released after the paper publication.
+Core Model code.
 
 
 ## Zoo
@@ -11,6 +13,7 @@ Codes will be released after the paper publication.
 提取码：vdsl
 
 ## Citation
+```
 @inproceedings{wang2022non,
   title={Non-Uniform Attention Network for Multi-modal Sentiment Analysis},
   author={Wang, Binqiang and Dong, Gang and Zhao, Yaqian and Li, Rengang and Cao, Qichun and Chao, Yinyin},
@@ -19,3 +22,7 @@ Codes will be released after the paper publication.
   year={2022},
   organization={Springer}
 }
+```
+
+## Acknowlegement
+The code is based on the repository [https://github.com/gkoumasd/MSAF](https://github.com/gkoumasd/MSAF)
